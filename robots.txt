@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-221o6c.kindlyprompter.com/sitemap.xml
